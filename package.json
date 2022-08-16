@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "es-module-shims": "^1.5.16"
+  }
+}
